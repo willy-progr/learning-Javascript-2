@@ -1,0 +1,33 @@
+#increment-btn:hover{
+    cursor: pointer;
+    color: white;
+    background-color: blue;
+}
+body{
+    background-color: rgba(1, 41, 1, 0.876);
+    background-image: url(img/poker-2619048_960_720.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+h1{
+    color:  goldenrod !important;
+    font-weight: 900;
+    font-family: serif;
+}
+p{
+    font-weight: 700;
+    font-size: 24px ;
+    font-family: 'Times New Roman', serif;
+}
+.btn1{
+    color: #016f32 !important;
+    width:  150px !important;
+    font-family: 'Times New Roman', serif;
+    background-color: goldenrod;
+    padding-top: 5px !important;
+    padding-bottom: 5px !important;
+    font-weight: bold;
+    border: none;
+    border-radius: 2px;
+    font-size: 18px !important;
+}
